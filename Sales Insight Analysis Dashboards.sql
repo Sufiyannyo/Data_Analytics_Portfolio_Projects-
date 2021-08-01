@@ -1,4 +1,5 @@
--- Link to visualisation on Tableau: https://public.tableau.com/app/profile/sufiyan.n.yo/viz/SalesInsightsDashboard_16278196206930/SalesandRevenueOverview
+-- Link to visualisation on Tableau: 
+-- https://public.tableau.com/app/profile/sufiyan.n.yo/viz/SalesInsightsDashboard_16278196206930/SalesandRevenueOverview
 
 -- Extracting tables to Excel for visaulisation in Tableau
 SELECT * FROM customers;
